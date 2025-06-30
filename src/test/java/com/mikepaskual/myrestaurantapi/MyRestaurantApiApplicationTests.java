@@ -1,4 +1,4 @@
-package com.mikepaskual.my_restaurant_api;
+package com.mikepaskual.myrestaurantapi;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

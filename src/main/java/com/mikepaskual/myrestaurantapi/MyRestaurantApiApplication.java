@@ -1,4 +1,4 @@
-package com.mikepaskual.my_restaurant_api;
+package com.mikepaskual.myrestaurantapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
